@@ -4,7 +4,7 @@ import React from "react";
 export const Middle = () => {
   return (
     <div>
-      <div className="flex flex-col gap-5 w-[700px] max-lg:w-[80%] mx-auto py-24 relative items-center">
+      <div className="flex flex-col gap-5 w-[700px] max-lg:w-[80%] mx-auto py-24 relative items-center ">
         <div className="max-xs:text-4xl text-5xl font-bold quicksand-bold text-center max-lg:w-[300px]">
           Join our <span className="specialtext quicksand-bold">community</span>
         </div>
